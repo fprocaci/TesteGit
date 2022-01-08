@@ -18,7 +18,7 @@ git remote add origin <link do repositório> -> Para linkar o repositório local
 
 git push -u origin main -> para e fato enviarmos o conteúdo local para o GitHub pela primeira vez
 
-git push origin main -> para os próximos envios
+git push origin main -> para os próximos envios não é necessário colocar o "-u".
 
 ## Branch
 
