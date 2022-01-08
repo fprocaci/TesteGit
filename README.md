@@ -8,7 +8,9 @@ git add README.md -> Para colocar o arquivo na área de stagging
 
 git commit -m "primeiro commit" -> para de fato dar o commit no repositório
 
-git branch -M "main" -> para alteraro nome da branch principal de master para main
+git branch -M "main" -> Alterar o nome da branch principal de master para main
+
+### Remote
 
 git remote add origin <link do repositório> -> Para linkar o repositório local com o do GitHub
 
