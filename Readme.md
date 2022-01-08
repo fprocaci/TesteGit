@@ -6,3 +6,5 @@ git status -> para ver os arquivos que foram adicionados ao stage
 
 git commit -m "Descrever oq foi feito no arquivo" -> para enviar o arquivo para registro com a sua descrição
 
+git branch -M "main" -> para trocar a branch de master para main
+
