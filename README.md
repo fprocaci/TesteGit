@@ -10,11 +10,11 @@ git commit -m "primeiro commit" -> para de fato dar o commit no repositório
 
 git branch -M "main" -> Alterar o nome da branch principal de master para main
 
-### Remote
+## Remote
 
 git remote add origin <link do repositório> -> Para linkar o repositório local com o do GitHub
 
-### Push
+## Push
 
 git push -u origin main -> para e fato enviarmos o conteúdo local para o GitHub pela primeira vez
 
