@@ -18,5 +18,11 @@ git push origin main -> para os próximos envios
 
 git checkout -b "novo-botao" -> Para criar uma nova branch e trocar para ela automaticamente
 
+git checkout main -> Para trocar de branch
+
+## Merge
+
+git merge novo-botao -> Para fazer uma junção dos conteudos que estão em branchs separadas em um só.
+
 
 
