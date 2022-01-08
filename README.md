@@ -1,4 +1,6 @@
-# Comando Iniciais
+# Comando Git
+
+## Comandos iniciais
 
 git init -> Para inicializar o repositório
 
