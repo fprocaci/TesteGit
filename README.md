@@ -36,7 +36,7 @@ git clone <link do repositório> -> para baixar o repositório do projeto para s
 
 ## Pull
 
-git pull -> Para baixar e atualizar o repositório local
+git pull -> Para baixar e/ou atualizar o repositório local
 
 
 
