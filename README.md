@@ -32,7 +32,7 @@ git merge novo-botao -> Para fazer uma junção dos conteudos que estão em bran
 
 ## Clone 
 
-git clone <link do projeto no GitHub> -> para baixar o repositório do projeto para seu PC.
+git clone <link do repositório> -> para baixar o repositório do projeto para seu PC.
 
 ## Pull
 
