@@ -30,5 +30,13 @@ git checkout main -> Para trocar de branch
 
 git merge novo-botao -> Para fazer uma junção dos conteudos que estão em branchs separadas em um só.
 
+## Clone 
+
+git clone <link do projeto no GitHub> -> para baixar o repositório do projeto para seu PC.
+
+## Pull
+
+git pull -> Para baixar e atualizar o repositório local
+
 
 
