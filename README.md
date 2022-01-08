@@ -1,4 +1,4 @@
-# Comando Git
+# Comandos Git
 
 ## Comandos iniciais
 
